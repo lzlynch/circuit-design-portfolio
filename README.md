@@ -1,7 +1,3 @@
-# circuit-portfolio
-testing
+# Welcome to my circuit portfolio!
 
-
-blah blah blah
-# testing 1
-# testing 2
+Here are all of my circuit designs that I have created so far. Each zip folder contains the original PCB documents from Altium, whlie I've attached a corresponding PDF to explain each board.
